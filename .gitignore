@@ -1,3 +1,7 @@
+#intellij
+.idea/
+.idea_modules/
+
 *.class
 *.log
 
